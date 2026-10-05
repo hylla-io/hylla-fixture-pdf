@@ -1,0 +1,74 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R /Outlines 9 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 4 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 5 0 R >> >> /Contents 6 0 R /Annots [8 0 R 11 0 R] >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 5 0 R >> >> /Contents 7 0 R /Annots [12 0 R] >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+6 0 obj
+<< /Length 288 >>
+stream
+BT /F1 18 Tf 72 720 Td (A Tiny Paper on Rounding) Tj ET
+BT /F1 11 Tf 72 690 Td (Abstract. We compare rounding rules [1] and their effect on totals [2].) Tj ET
+BT /F1 11 Tf 72 644 Td (Section 2 has the results.) Tj ET
+BT /F1 11 Tf 72 620 Td (The worked examples are in appendix.pdf.) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Length 346 >>
+stream
+BT /F1 14 Tf 72 720 Td (2 Results) Tj ET
+BT /F1 11 Tf 72 696 Td (Half-up rounding sends 2.5 to 3.) Tj ET
+BT /F1 14 Tf 72 660 Td (References) Tj ET
+BT /F1 10 Tf 72 640 Td ([1] D. E. Knuth. The Art of Computer Programming, Vol. 2. doi:10.5555/1234567) Tj ET
+BT /F1 10 Tf 72 624 Td ([2] A. Author. Totals and Taxes. https://example.com/totals) Tj ET
+endstream
+endobj
+8 0 obj
+<< /Type /Annot /Subtype /Link /Rect [72 640 300 656] /Border [0 0 0] /Dest [4 0 R /XYZ 0 792 null] >>
+endobj
+9 0 obj
+<< /Type /Outlines /First 10 0 R /Last 10 0 R /Count 1 >>
+endobj
+10 0 obj
+<< /Title (Results) /Parent 9 0 R /Dest [4 0 R /XYZ 0 792 null] >>
+endobj
+11 0 obj
+<< /Type /Annot /Subtype /Link /Rect [72 616 330 632] /Border [0 0 0] /A << /S /URI /URI (appendix.pdf) >> >>
+endobj
+12 0 obj
+<< /Type /Annot /Subtype /Link /Rect [72 620 400 634] /Border [0 0 0] /A << /S /URI /URI (https://example.com/totals) >> >>
+endobj
+13 0 obj
+<< /Title (A Tiny Paper on Rounding) /Author (Hylla fixture) >>
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000009 00000 n 
+0000000074 00000 n 
+0000000137 00000 n 
+0000000286 00000 n 
+0000000429 00000 n 
+0000000499 00000 n 
+0000000838 00000 n 
+0000001235 00000 n 
+0000001353 00000 n 
+0000001426 00000 n 
+0000001509 00000 n 
+0000001635 00000 n 
+0000001775 00000 n 
+trailer
+<< /Size 14 /Root 1 0 R /Info 13 0 R >>
+startxref
+1855
+%%EOF
