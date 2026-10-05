@@ -1,0 +1,41 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R /Annots [6 0 R] >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Length 133 >>
+stream
+BT /F1 16 Tf 72 720 Td (Errata) Tj ET
+BT /F1 11 Tf 72 696 Td (In paper.pdf, reference [1] should cite Volume 2, Third Edition.) Tj ET
+endstream
+endobj
+6 0 obj
+<< /Type /Annot /Subtype /Link /Rect [72 692 160 708] /Border [0 0 0] /A << /S /URI /URI (paper.pdf) >> >>
+endobj
+7 0 obj
+<< /Title (Errata) /Author (Hylla fixture) >>
+endobj
+xref
+0 8
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000257 00000 n 
+0000000327 00000 n 
+0000000511 00000 n 
+0000000633 00000 n 
+trailer
+<< /Size 8 /Root 1 0 R /Info 7 0 R >>
+startxref
+694
+%%EOF
